@@ -1,9 +1,9 @@
 # **_Seller Pro_ - Smart Sales and Inventory Management System**
 
 Everything is getting digitalized, your business needs it too. Instead of maintaining your business "khata" using a pen and register by yourself, this software will do it for you!
-From noting the purchasing record of your business to keeping the track of your sales records, this software has got your back ♥
+From noting the purchasing record of your business, calculation of daily expenditures to keeping the track of your sales records, this software has got your back ♥
 
-Moreover, from automating all the boring stuff, it will also give you daily sales to match the money in your drawer, making your business 100% corruption proof :D (Incase someone else operates your business)
+Moreover, from automating all the boring stuff, it will also give you one-touch daily sales to match the money in your drawer, making your business 100% corruption proof :D (Incase someone else operates your business)
 
 ♦ No Maintainance charges at all.
 
