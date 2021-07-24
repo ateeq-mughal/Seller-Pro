@@ -20,15 +20,13 @@ Location: Karachi, Pakistan.
 <img src="0.png" style="float: left; margin-right: 10px;"  alt=""/>
 
 
-
-
 Purchase Panel - Entry of your inventory (the articles you buy to sell).
 
 Sales Panel - Where you sell to the customers.
 
 Stock Panel - Where you see all your business records, Profits, etc.
 
-Expense PAnel - To record your daily expenditures in a samrt manner.
+Expense Panel - To record your daily expenditures in a smart manner.
 
 Purchase Record - Where you can see all your purchase history efficiently.
 
