@@ -2,6 +2,7 @@
 
 Everything is getting digitalized, your business needs it too. Instead of maintaining your business "khata" using a pen and register by yourself, this software will do it for you!
 From noting the purchasing record of your business to keeping the track of your sales records, this software has got your back ♥
+
 Moreover, from automating all the boring stuff, it will also give you daily sales to match the money in your drawer, making your business 100% corruption proof :D (Incase someone else operates your business)
 
 ♦ Special Discount on the reference of #SoulBrothersPakistan.
@@ -26,22 +27,43 @@ Location: Karachi, Pakistan.
 
 <img src="0.png" style="float: left; margin-right: 10px;"  alt=""/>
 
+--------------------------------------------------------------------------
+
 <img src="1.png" style="float: left; margin-right: 10px;"  alt=""/>
 
-###Purchase Panel - Entry of your inventory (the articles you buy to sell).
+### Purchase Panel - Entry of your inventory (the articles you buy to sell).
 
-###Sales Panel - Where you sell to the customers.
+<img src="1.png" style="float: left; margin-right: 10px;"  alt=""/>
 
-###Stock Panel - Where you see all your business records, Profits, etc.
+### Sales Panel - Where you sell to the customers.
 
-###Expense Panel - To record your daily expenditures in a smart manner.
+<img src="1.png" style="float: left; margin-right: 10px;"  alt=""/>
 
-###Purchase Record - Where you can see all your purchase history efficiently.
 
-###Sales Record - Where you can see all your selling history efficiently.
+### Stock Panel - Where you see all your business records, Profits, etc.
 
-###Total Sale - Total Sale by date ensures your cash amount matches with daily sales.
+<img src="1.png" style="float: left; margin-right: 10px;"  alt=""/>
 
-###Customer Sales Details - Where you can see individual customer sales invoice.
+### Expense Panel - To record your daily expenditures in a smart manner.
 
-###Printed Invoice - This Will be customized according to your business name and logo.
+<img src="1.png" style="float: left; margin-right: 10px;"  alt=""/>
+
+### Purchase Record - Where you can see all your purchase history efficiently.
+
+<img src="1.png" style="float: left; margin-right: 10px;"  alt=""/>
+
+### Sales Record - Where you can see all your selling history efficiently.
+
+<img src="1.png" style="float: left; margin-right: 10px;"  alt=""/>
+
+### Total Sale - Total Sale by date ensures your cash amount matches with daily sales.
+
+<img src="1.png" style="float: left; margin-right: 10px;"  alt=""/>
+
+### Customer Sales Details - Where you can see individual customer sales invoice.
+
+<img src="1.png" style="float: left; margin-right: 10px;"  alt=""/>
+
+### Printed Invoice - This Will be customized according to your business name and logo.
+
+<img src="1.png" style="float: left; margin-right: 10px;"  alt=""/>
