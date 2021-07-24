@@ -29,41 +29,38 @@ Location: Karachi, Pakistan.
 
 --------------------------------------------------------------------------
 
-<img src="1.png" style="float: left; margin-right: 10px;"  alt=""/>
-
 ### Purchase Panel - Entry of your inventory (the articles you buy to sell).
 
 <img src="1.png" style="float: left; margin-right: 10px;"  alt=""/>
 
 ### Sales Panel - Where you sell to the customers.
 
-<img src="1.png" style="float: left; margin-right: 10px;"  alt=""/>
-
+<img src="2.png" style="float: left; margin-right: 10px;"  alt=""/>
 
 ### Stock Panel - Where you see all your business records, Profits, etc.
 
-<img src="1.png" style="float: left; margin-right: 10px;"  alt=""/>
+<img src="3.png" style="float: left; margin-right: 10px;"  alt=""/>
 
 ### Expense Panel - To record your daily expenditures in a smart manner.
 
-<img src="1.png" style="float: left; margin-right: 10px;"  alt=""/>
+<img src="4.png" style="float: left; margin-right: 10px;"  alt=""/>
 
 ### Purchase Record - Where you can see all your purchase history efficiently.
 
-<img src="1.png" style="float: left; margin-right: 10px;"  alt=""/>
+<img src="5.png" style="float: left; margin-right: 10px;"  alt=""/>
 
 ### Sales Record - Where you can see all your selling history efficiently.
 
-<img src="1.png" style="float: left; margin-right: 10px;"  alt=""/>
+<img src="6.png" style="float: left; margin-right: 10px;"  alt=""/>
 
 ### Total Sale - Total Sale by date ensures your cash amount matches with daily sales.
 
-<img src="1.png" style="float: left; margin-right: 10px;"  alt=""/>
+<img src="7.png" style="float: left; margin-right: 10px;"  alt=""/>
 
 ### Customer Sales Details - Where you can see individual customer sales invoice.
 
-<img src="1.png" style="float: left; margin-right: 10px;"  alt=""/>
+<img src="8.png" style="float: left; margin-right: 10px;"  alt=""/>
 
 ### Printed Invoice - This Will be customized according to your business name and logo.
 
-<img src="1.png" style="float: left; margin-right: 10px;"  alt=""/>
+<img src="9.png" style="float: left; margin-right: 10px;"  alt=""/>
