@@ -5,8 +5,6 @@ From noting the purchasing record of your business to keeping the track of your 
 
 Moreover, from automating all the boring stuff, it will also give you daily sales to match the money in your drawer, making your business 100% corruption proof :D (Incase someone else operates your business)
 
-♦ Special Discount on the reference of #SoulBrothersPakistan.
-
 ♦ No Maintainance charges at all.
 
 ♦ Free Customer Support for the 3 months.
