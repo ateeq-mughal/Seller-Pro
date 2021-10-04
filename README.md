@@ -7,7 +7,7 @@ Moreover, from automating all the boring stuff, it will also give you one-touch 
 
 ♦ No Maintainance charges at all.
 
-♦ Free Customer Support for the 3 months.
+♦ Free Customer Support for the first 3 months.
 
 ♦ Fully Customizable upon your request.
 
